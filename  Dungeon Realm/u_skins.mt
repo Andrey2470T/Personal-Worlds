@@ -1,0 +1,2 @@
+Andrey01 character_1
+singleplayer character_1

@@ -1,0 +1,132 @@
+breath = 11
+extended_attributes = """
+null
+
+"""
+hp = 20
+name = Andrey01
+pitch = 38
+position = (8091.22,-32324.2,7616.84)
+version = 1
+yaw = 132.98
+PlayerArgsEnd
+List main 36
+Width 0
+Item castle:stonewall 99
+Item default:wood 99
+Item building_blocks:hardwood 3
+Item homedecor:hanging_lantern 99
+Item castle:pavement_brick 99
+Item travelnet:travelnet 99
+Item castle:light 99
+Item princess:princess_dungeon_brick
+Item creatures:oerrki_spawn_egg 99
+Item building_blocks:smoothglass
+Item moreblocks:super_glow_glass 99
+Item artdeco:arch1e 99
+Item wool:blue 99
+Item caverealms:salt_crystal 99
+Item artdeco:1e 99
+Item xpanes:bar 99
+Item creatures:zombie_spawn_egg 99
+Item advtrains:newlocomotive
+Item default:brick 99
+Item princess:princess_brick 99
+Item streets:streetlamp_basic_bottom 99
+Item artdeco:decostair2 99
+Item princess:princess_bed_bottom
+Item homedecor:fence_wrought_iron
+Item homedecor:banister_brass_horizontal
+Item creatures:ghost_spawn_egg
+Item homedecor:shingle_outer_corner_asphalt 99
+Item homedecor:banister_wood_horizontal
+Item default:torch 2
+Item artdeco:lionheart 99
+Item dmobs:gnorm 99
+Item building_blocks:smoothglass
+Item building_blocks:hardwood 99
+Item homedecor:shower_tray
+Item homedecor:door_wood_plain_left
+Item homedecor:shower_head
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+List armor 6
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List enderchest 32
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+EndInventory

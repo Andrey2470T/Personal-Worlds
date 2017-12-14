@@ -1,0 +1,68 @@
+breath = 11
+hp = 20
+name = michail
+pitch = 18.5
+position = (8158.81,-32135,7625.91)
+version = 1
+yaw = 255.99
+PlayerArgsEnd
+List main 36
+Width 0
+Item default:pick_diamond
+Item default:snowblock
+Item default:iron_lump
+Item default:dirt
+Item default:pine_tree
+Item default:cobble
+Item default:diamondblock
+Item homedecor:fence_wrought_iron
+Item homedecor:hanging_lantern
+Item default:coal_lump
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

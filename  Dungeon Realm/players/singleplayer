@@ -1,0 +1,132 @@
+breath = 11
+extended_attributes = """
+null
+
+"""
+hp = 4
+name = singleplayer
+pitch = 14.88
+position = (8359.51,-31765,7682.46)
+version = 1
+yaw = 242.33
+PlayerArgsEnd
+List main 36
+Width 0
+Item default:torch 2
+Item factory_bridges:c03
+Item factory_bridges:b05
+Item default:diamondblock
+Item creatures:oerrki_spawn_egg
+Item homedecor:fence_wrought_iron
+Item default:sword_diamond 1 11655 "\u0001\u0002\u0003"
+Item default:cobble
+Item default:pick_diamond 1 34668 "\u0001\u0002\u0003"
+Item caverealms:glow_emerald_ore
+Item default:papyrus 4
+Item xpanes:bar
+Item creatures:rotten_flesh 3
+Item creatures:chicken_flesh 9
+Item creatures:feather 5
+Item default:snow
+Item default:mossycobble
+Item trunks:moss
+Item default:coal_lump
+Item default:iron_lump 3
+Item default:copper_lump
+Item default:gold_lump
+Item default:mese_crystal
+Item lifter:lift
+Item default:diamond
+Item building_blocks:hardwood
+Item quartz:quartz_crystal
+Item default:sword_wood
+Item default:stick 3
+Item ufos:furnace
+Item default:gravel
+Item bones:bones 4
+Empty
+Item ufos:ufo 1 47769 "\u0001\u0002\u0003"
+Item moreores:axe_mithril 1 371 "\u0001\u0002\u0003"
+Item default:pick_stone
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+List armor 6
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List enderchest 32
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+EndInventory

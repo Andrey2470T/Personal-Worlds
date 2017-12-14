@@ -1,0 +1,88 @@
+breath = 11
+extended_attributes = """
+null
+
+"""
+hp = 20
+name = Andrey01
+pitch = 23.9
+position = (415.79,85,-350.92)
+version = 1
+yaw = 316.78
+PlayerArgsEnd
+List main 36
+Width 0
+Item xpanes:bar_flat 99
+Item marssurvive:aliengun
+Item marssurvive:alienispawner_crystal 96
+Empty
+Item creatures:oerrki_spawn_egg
+Item portalgun:cake
+Item default:diamondblock 99
+Item default:pick_diamond
+Item default:shovel_diamond
+Item marssurvive:sand 4
+Item marssurvive:cobble
+Item bobblocks:blueblock
+Item bobblocks:redblock
+Item bobblocks:violetblock
+Item factory_bridges:b00
+Item factory_bridges:b00
+Item woodwalk:wood_walk_single 99
+Item factory_bridges:b09
+Item factory_bridges:a09
+Item xpanes:pane
+Item marssurvive:stone_medium
+Item creatures:zombie_spawner
+Item bobblocks:redblock
+Item marssurvive:stone_small
+Item marssurvive:sandpick
+Item woodwalk:wood_walk_stair 99
+Item homedecor:window_quartered 99
+Item marssurvive:sp 1 65533 "\u0001\u0002\u0003"
+Item woodwalk:wood_board 99
+Item creatures:oerrki_spawner 99
+Item blocks:pattern_block
+Item images:image_2
+Item images:image_3
+Item mobs:sandworm 99
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

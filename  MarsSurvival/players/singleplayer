@@ -1,0 +1,68 @@
+breath = 11
+hp = 20
+name = singleplayer
+pitch = 20.19
+position = (350.28,145,-341.9)
+version = 1
+yaw = 261.39
+PlayerArgsEnd
+List main 36
+Width 0
+Item marssurvive:sp 1 2304
+Item marssurvive:sandpick
+Item marssurvive:air_gassbotte
+Item marssurvive:tospaceteleporter
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craft 9
+Width 3
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+EndInventory

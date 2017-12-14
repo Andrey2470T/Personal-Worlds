@@ -1,0 +1,1 @@
+return {["inactive_effects"] = {["Mihail"] = {}}, ["last_effect_id"] = 2}

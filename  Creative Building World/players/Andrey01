@@ -1,0 +1,128 @@
+breath = 11
+extended_attributes = """
+{"advanced_guards:exceptions":"fgjkxchjgf","advanced_guards:orders":"attack"}
+
+"""
+hp = 20
+name = Andrey01
+pitch = 13.29
+position = (-1788.45,138.1,1033)
+version = 1
+yaw = 203.57
+PlayerArgsEnd
+List main 32
+Width 0
+Item advtrains:dtrack_placer 99
+Item moreblocks:coal_stone 12
+Item moreblocks:super_glow_glass 99
+Item moreblocks:slope_coal_stone_half_raised
+Item moreblocks:slope_coal_stone
+Item advtrains:trackworker
+Item screwdriver:screwdriver
+Item moreblocks:slab_coal_stone 99
+Item creatures:oerrki_spawn_egg 99
+Item default:coal_lump
+Item default:cobble
+Item moreblocks:slab_super_glow_glass 99
+Item default:dirt
+Item moreblocks:slope_super_glow_glass 99
+Item moreblocks:slope_super_glow_glass_half_raised 99
+Item moreblocks:slope_coal_stone_inner_cut 99
+Item moreblocks:slope_grey_bricks_half_raised 32
+Item moreblocks:slope_grey_bricks_half 99
+Item streets:concrete_wall 98
+Item streets:concrete 12
+Item moreblocks:slope_stonebrick_half 99
+Item streets:mark_solid_white_side_line_on_asphalt
+Item moreblocks:slab_coal_stone_quarter
+Item moreblocks:slope_coal_stone_outer_cut 99
+Item streets:slope_concrete_outer_cut 3
+Item streets:slope_concrete_inner_cut_half 99
+Item streets:mark_solid_white_side_line_rotated_on_asphalt
+Item moreblocks:slope_wood 99
+Item streets:slope_solid_white_side_line_half_raised 99
+Item moreores:mithril_block
+Item default:steelblock
+Item moreblocks:slope_grey_bricks 99
+EndInventoryList
+List craft 9
+Width 3
+Item streets:slope_concrete_half 4
+Item moreblocks:stair_coal_stone 37
+Item gloopblocks:fence_steel 99
+Item streets:slab_concrete_1 99
+Item default:stonebrick
+Item streets:slab_concrete 99
+Item moreblocks:slab_coal_stone_1 99
+Item moreblocks:slope_coal_stone_half
+Item building_blocks:slope_hardwood 99
+EndInventoryList
+List craftpreview 1
+Width 0
+Empty
+EndInventoryList
+List craftresult 1
+Width 0
+Empty
+EndInventoryList
+List bag1 1
+Width 0
+Empty
+EndInventoryList
+List bag2 1
+Width 0
+Empty
+EndInventoryList
+List bag3 1
+Width 0
+Empty
+EndInventoryList
+List bag4 1
+Width 0
+Empty
+EndInventoryList
+List enderchest 32
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+List armor 6
+Width 0
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+EndInventoryList
+EndInventory
